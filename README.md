@@ -10,3 +10,7 @@ The code is located in the Jupyter Notebook and the dataset can be found in the 
 ## Project Overview
 
 A GAN network was trained using the celebA dataset in order to generate some facial-like images.
+
+Final losses (Binary Cross-Entropy Loss)
+- discriminator: 0.2191
+- generator: 2.4757
